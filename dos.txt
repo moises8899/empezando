@@ -1,1 +1,2 @@
-Hola esto es una prueba de GIT.
+Hola esto es una prueba de GIT. Estoy escribiendo unas lineas nuevas para porbar como funcionan los cambios
+en git.
